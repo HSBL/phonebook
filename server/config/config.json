@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "2505",
+    "database": "database_development_contacts",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "orlwhmicbaoogc",
+    "password": "ca035c503a66f0ac04e2403a68d9db8d1c8aeb039e9e0b887439bccf28827e32",
+    "database": "d3ma3p7up5g066",
+    "host": "ec2-174-129-33-13.compute-1.amazonaws.com",
+    "dialect": "postgres"
+  }
+}
