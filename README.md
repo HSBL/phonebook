@@ -62,7 +62,8 @@ https://kontakkku.herokuapp.com/api
           })
   ```
 
-**Create**
+
+**Create a Contact**
 ----
   Returns json data about newly created contact.
 
